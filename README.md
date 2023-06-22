@@ -9,10 +9,10 @@ This is merely a showcase, but please have a look if you are interested.
 
 Here is a list of the largest features I implemented that can be found in here:
 
--Global indirect illumniation with spherical harmonics
--Shadow casting mesh particles
--Shadow atlassing with dynamic and static shadows
--Triple buffered rendering
--GPU driven clustered rendering acceleration structure
--Render pipeline to multiple render views
--Instanced rendering
+- Global indirect illumniation with spherical harmonics
+- Shadow casting mesh particles
+- Shadow atlassing with dynamic and static shadows
+- Triple buffered rendering
+- GPU driven clustered rendering acceleration structure
+- Render pipeline to multiple render views
+- Instanced rendering
