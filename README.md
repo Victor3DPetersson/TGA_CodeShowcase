@@ -1,4 +1,4 @@
-##DX11 Game Engine written at The Game Assembly
+## DX11 Game Engine written at The Game Assembly
 
 This is not the entire engine. But rather it is the classes and systems I wrote so that I can showcase the systems that I wrote. 
 
